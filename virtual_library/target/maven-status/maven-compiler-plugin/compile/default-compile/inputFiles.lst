@@ -1,0 +1,5 @@
+/home/devbrum/Documentos/virtual_library/src/main/java/com/example/virtual_library/VirtualLibraryApplication.java
+/home/devbrum/Documentos/virtual_library/src/main/java/com/example/virtual_library/controller/BookController.java
+/home/devbrum/Documentos/virtual_library/src/main/java/com/example/virtual_library/model/Book.java
+/home/devbrum/Documentos/virtual_library/src/main/java/com/example/virtual_library/repository/BookRepository.java
+/home/devbrum/Documentos/virtual_library/src/main/java/com/example/virtual_library/service/BookService.java

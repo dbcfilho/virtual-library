@@ -1,0 +1,5 @@
+com/example/virtual_library/controller/BookController.class
+com/example/virtual_library/repository/BookRepository.class
+com/example/virtual_library/model/Book.class
+com/example/virtual_library/service/BookService.class
+com/example/virtual_library/VirtualLibraryApplication.class
